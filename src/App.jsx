@@ -1,8 +1,8 @@
-
-
+import CalcularFrete from "./components/CalcularFrete"
 
 function App() {
- return (<h1></h1>)
+ return (<CalcularFrete/>)
 }
 export default App
+
 
